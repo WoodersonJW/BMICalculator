@@ -1,0 +1,11 @@
+C:\Users\User\Documents\MauHT22\Assignment3\BMICalculator\bin\Debug\BMICalculator.exe.config
+C:\Users\User\Documents\MauHT22\Assignment3\BMICalculator\bin\Debug\BMICalculator.exe
+C:\Users\User\Documents\MauHT22\Assignment3\BMICalculator\bin\Debug\BMICalculator.pdb
+C:\Users\User\Documents\MauHT22\Assignment3\BMICalculator\obj\Debug\BMICalculator.csproj.AssemblyReference.cache
+C:\Users\User\Documents\MauHT22\Assignment3\BMICalculator\obj\Debug\BMICalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\MauHT22\Assignment3\BMICalculator\obj\Debug\BMICalculator.MainForm.resources
+C:\Users\User\Documents\MauHT22\Assignment3\BMICalculator\obj\Debug\BMICalculator.Properties.Resources.resources
+C:\Users\User\Documents\MauHT22\Assignment3\BMICalculator\obj\Debug\BMICalculator.csproj.GenerateResource.cache
+C:\Users\User\Documents\MauHT22\Assignment3\BMICalculator\obj\Debug\BMICalculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\MauHT22\Assignment3\BMICalculator\obj\Debug\BMICalculator.exe
+C:\Users\User\Documents\MauHT22\Assignment3\BMICalculator\obj\Debug\BMICalculator.pdb
